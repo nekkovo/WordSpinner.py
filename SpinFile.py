@@ -12,7 +12,7 @@ def main():
     with open('essay.txt', 'r') as file:
         original_text = preprocess_text(file.read())
 
-    spinner = Spinner('test-synonyms.txt')
+    spinner = Spinner('synonyms-simplified.txt')
 
     print(f"Original: {original_text}")
     for i in range(3):
