@@ -1,4 +1,5 @@
 # This assignment is completed independently
+# https://github.com/nekkovo/WordSpinner.py
 
 import random
 

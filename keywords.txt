@@ -1,0 +1,9 @@
+hi, how can I help you today?
+greetings, this is your personal designed ChatBot!
+hello, I'm here to help!
+help, I can help you with anything.
+believe, Try me.
+sad, Why are you feeling sad?
+homework, Yeah I understand that.
+understand, Because students struggle with their homework usually and this data is part of my comprehensive algorithm.
+interesting, I'll take this as compliment.
