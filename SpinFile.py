@@ -1,3 +1,5 @@
+# This assignment is completed independently
+
 from Spinner import Spinner
 
 
